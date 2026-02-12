@@ -45,7 +45,7 @@ This Python script uses the `discord.py` library to automatically set up a Disco
 ### 5. Configure and Run the Script
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YOUR-USERNAME/krtrim-discord-bot.git
+    git clone https://github.com/krtrimtech/krtrim-discord-bot.git
     cd krtrim-discord-bot
     ```
 
