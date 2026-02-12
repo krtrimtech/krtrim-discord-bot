@@ -69,13 +69,13 @@ Your quest, should you choose to accept it, is to get this bot running. Here are
     **On macOS/Linux:**
     ```bash
     export DISCORD_BOT_TOKEN="YOUR_BOT_TOKEN_HERE"
-    export DISCORD_GUILD_ID="YOUR_SERVER_ID_HERE"
+    export YOUR_SERVER_ID="YOUR_SERVER_ID_HERE"
     ```
 
     **On Windows (PowerShell):**
     ```powershell
     $env:DISCORD_BOT_TOKEN="YOUR_BOT_TOKEN_HERE"
-    $env:DISCORD_GUILD_ID="YOUR_SERVER_ID_HERE"
+    $env:YOUR_SERVER_ID="YOUR_SERVER_ID_HERE"
     ```
     > *(Psst... if you're feeling risky, you can hardcode these in the `.py` file, but we don't recommend it!)*
 
