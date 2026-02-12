@@ -41,9 +41,9 @@ Your quest, should you choose to accept it, is to get this bot running. Here are
 1.  Head to the [Discord Developer Portal](https://discord.com/developers/applications).
 2.  Click **"New Application"**, name it "krtrim-setup-bot", and hit **"Create"**.
 3.  Go to the **"Bot"** tab on the left.
-4.  Click **"Add Bot"**, then **"Yes, do it!"**. Your bot is born!
-5.  Click **"Reset Token"** and **COPY THE TOKEN**.
-    > **⚠️ IMPORTANT:** This token is super-secret! Treat it like your password. Don't share it with anyone!
+4.  Click **"Reset Token"** and **COPY THE TOKEN**.
+    > **⚠️ IMPORTANT:** This token is super-secret! Treat it like your password. Don't share it with anyone! and enable the **Presence Intent**, **"SERVER MEMBERS INTENT"** and **Message Content Intent**.
+5.  Click **"Add Bot"**, then **"Yes, do it!"**. Your bot is born!
 
 ### 🎯 Objective 4: Invite Your Bot to the Party
 1.  In the Developer Portal, go to **OAuth2 > URL Generator**.
